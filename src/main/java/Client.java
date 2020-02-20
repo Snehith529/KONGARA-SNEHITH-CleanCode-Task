@@ -7,7 +7,7 @@ public static void main(String args[])
 	System.out.println("Enter Principal Amount: ");
 	float p= sc.nextFloat();
 	System.out.println("Enter rate of interest:");
-	int r=sc.nextInt();
+	float r=sc.nextFloat();
 	System.out.println("Enter time in years");
 	int t = sc.nextInt();
 	Simple si= new Simple();
