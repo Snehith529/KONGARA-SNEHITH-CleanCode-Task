@@ -1,6 +1,6 @@
 import java.lang.Math;
 public class Compound {
-float compoundinterest(float p,int r,int t)
+float compoundinterest(float p,float r,int t)
 {
 	float x,res;
 	double y;
@@ -11,3 +11,4 @@ float compoundinterest(float p,int r,int t)
 	return res;
 }
 }
+
